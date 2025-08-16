@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 
-import { LucideRocket, Sun, Moon } from 'lucide-react';
+import { LucideRocket, Sun, Moon, User, LogIn } from 'lucide-react';
 import { useTheme } from './ThemeProvider';
 
 const navLinks = [
@@ -29,6 +29,23 @@ export function Navbar() {
               </a>
             </Link>
           ))}
+          
+          {/* Authentication Links */}
+          <div className="flex items-center space-x-2 ml-4">
+            <Link href="/auth/login" legacyBehavior>
+              <a className={`inline-flex items-center px-3 py-2 rounded-lg font-medium transition-colors ${theme === 'dark' ? 'text-cream-200 hover:bg-gray-800 hover:text-cream-100' : 'text-primary-700 hover:bg-beige-100 hover:text-primary-800'}`}>
+                <LogIn className="w-4 h-4 mr-2" />
+                Sign In
+              </a>
+            </Link>
+            <Link href="/auth/signup" legacyBehavior>
+              <a className={`inline-flex items-center px-4 py-2 rounded-lg font-medium transition-colors ${theme === 'dark' ? 'bg-primary-600 text-white hover:bg-primary-700' : 'bg-primary-500 text-white hover:bg-primary-600'}`}>
+                <User className="w-4 h-4 mr-2" />
+                Sign Up
+              </a>
+            </Link>
+          </div>
+          
           <button
             onClick={toggleTheme}
             className={`ml-4 p-2 rounded-full border transition-colors ${theme === 'dark' ? 'border-gray-700 bg-gray-800 hover:bg-gray-700' : 'border-beige-300 bg-cream-50 hover:bg-beige-200'}`}
