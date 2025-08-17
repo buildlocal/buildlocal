@@ -19,7 +19,7 @@ The BuildLocal team takes security bugs seriously. We appreciate your efforts to
 Instead, please report them via email to: **security@buildlocal.org**
 
 If you don't receive a response within 48 hours, please follow up via:
-- GitHub Security Advisory: [Create a private vulnerability report](https://github.com/yourusername/buildlocal/security/advisories/new)
+- GitHub Security Advisory: [Create a private vulnerability report](https://github.com/buildlocal/buildlocal/security/advisories/new)
 
 ### What to Include
 

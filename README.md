@@ -29,7 +29,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/buildlocal.git
+   git clone https://github.com/buildlocal/buildlocal.git
    cd buildlocal
    ```
 
@@ -91,8 +91,8 @@ We welcome contributions from the community! Here's how you can help:
 
 ### Ways to Contribute
 
-- 🐛 **Bug Reports**: Found a bug? [Open an issue](https://github.com/yourusername/buildlocal/issues)
-- 💡 **Feature Requests**: Have an idea? [Start a discussion](https://github.com/yourusername/buildlocal/discussions)
+- 🐛 **Bug Reports**: Found a bug? [Open an issue](https://github.com/buildlocal/buildlocal/issues)
+- 💡 **Feature Requests**: Have an idea? [Start a discussion](https://github.com/buildlocal/buildlocal/discussions)
 - 🔧 **Code Contributions**: Submit pull requests
 - 📝 **Documentation**: Improve our docs
 - 🌐 **Translation**: Help translate the platform
@@ -123,8 +123,8 @@ npm run lint         # Run linting
 
 ## 🌟 Community
 
-- **GitHub Discussions**: [Join the conversation](https://github.com/yourusername/buildlocal/discussions)
-- **Issues**: [Report bugs or request features](https://github.com/yourusername/buildlocal/issues)
+- **GitHub Discussions**: [Join the conversation](https://github.com/buildlocal/buildlocal/discussions)
+- **Issues**: [Report bugs or request features](https://github.com/buildlocal/buildlocal/issues)
 - **Twitter**: [@buildlocal](https://twitter.com/buildlocal)
 
 ## 📄 License
@@ -143,4 +143,4 @@ For security concerns, please review our [Security Policy](SECURITY.md).
 
 ---
 
-**Made with ❤️ globally** | [Website](https://buildlocal.org) | [Community](https://github.com/yourusername/buildlocal/discussions)
+**Made with ❤️ globally** | [Website](https://buildlocal.org) | [Community](https://github.com/buildlocal/buildlocal/discussions)
