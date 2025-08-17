@@ -17,8 +17,8 @@ const Login: React.FC = () => {
   return (
     <>
       <Head>
-        <title>Login | OpenTokyo</title>
-        <meta name="description" content="Login to your OpenTokyo account" />
+        <title>Login | BuildLocal</title>
+        <meta name="description" content="Login to your BuildLocal account" />
       </Head>
       <main className="min-h-screen bg-cream-50 dark:bg-gray-900 flex items-center justify-center py-12 px-4">
         <div className="max-w-md w-full space-y-8">
@@ -26,11 +26,11 @@ const Login: React.FC = () => {
           <div className="text-center">
             <div className="flex justify-center mb-6">
               <div className="w-16 h-16 bg-primary-500 rounded-xl flex items-center justify-center">
-                <span className="text-white font-bold text-2xl">OT</span>
+                <span className="text-white font-bold text-2xl">BL</span>
               </div>
             </div>
             <h2 className="text-3xl font-bold text-primary-800 dark:text-cream-100">Welcome back</h2>
-            <p className="mt-2 text-primary-600 dark:text-cream-200">Sign in to your OpenTokyo account</p>
+            <p className="mt-2 text-primary-600 dark:text-cream-200">Sign in to your BuildLocal account</p>
           </div>
 
           {/* Login Form */}

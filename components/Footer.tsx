@@ -12,26 +12,26 @@ export default function Footer() {
               <div className="w-8 h-8 bg-primary-500 rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold">OT</span>
               </div>
-              <span className="text-2xl font-bold text-cream-100">OpenTokyo</span>
+              <span className="text-2xl font-bold text-cream-100">BuildLocal</span>
             </div>
             <p className="text-cream-200 mb-4 leading-relaxed">
               Building the future of technology and engineering in Tokyo. Join our community of innovators, 
               creators, and changemakers who are shaping tomorrow's digital landscape.
             </p>
             <div className="flex gap-4">
-              <a href="https://github.com/opentokyo" target="_blank" rel="noopener noreferrer" 
+              <a href="https://github.com/buildlocal" target="_blank" rel="noopener noreferrer" 
                 className="w-10 h-10 bg-primary-800 rounded-lg flex items-center justify-center hover:bg-primary-700 transition-colors">
                 <Github className="w-5 h-5" />
               </a>
-              <a href="https://twitter.com/opentokyo" target="_blank" rel="noopener noreferrer"
+              <a href="https://twitter.com/buildlocal" target="_blank" rel="noopener noreferrer"
                 className="w-10 h-10 bg-primary-800 rounded-lg flex items-center justify-center hover:bg-primary-700 transition-colors">
                 <Twitter className="w-5 h-5" />
               </a>
-              <a href="https://linkedin.com/company/opentokyo" target="_blank" rel="noopener noreferrer"
+              <a href="https://linkedin.com/company/buildlocal" target="_blank" rel="noopener noreferrer"
                 className="w-10 h-10 bg-primary-800 rounded-lg flex items-center justify-center hover:bg-primary-700 transition-colors">
                 <Linkedin className="w-5 h-5" />
               </a>
-              <a href="mailto:hello@opentokyo.org"
+              <a href="mailto:hello@buildlocal.org"
                 className="w-10 h-10 bg-primary-800 rounded-lg flex items-center justify-center hover:bg-primary-700 transition-colors">
                 <Mail className="w-5 h-5" />
               </a>
@@ -87,7 +87,7 @@ export default function Footer() {
         <div className="border-t border-primary-800 pt-8">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <div className="flex items-center gap-2 text-cream-300">
-              <span>© {new Date().getFullYear()} OpenTokyo. All rights reserved.</span>
+              <span>© {new Date().getFullYear()} BuildLocal. All rights reserved.</span>
               <span className="hidden md:inline">•</span>
               <span className="hidden md:inline-flex items-center gap-1">
                 Made with <Heart className="w-4 h-4 text-accent-400" fill="currentColor" /> in Tokyo

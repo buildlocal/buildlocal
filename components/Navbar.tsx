@@ -19,7 +19,7 @@ export function Navbar() {
       <div className="container mx-auto flex items-center justify-between py-3 px-4">
         <div className="flex items-center space-x-2">
           <LucideRocket className="w-6 h-6 text-primary-500" />
-          <span className={`font-bold text-xl ${theme === 'dark' ? 'text-cream-100' : 'text-primary-800'}`}>OpenTokyo</span>
+          <span className={`font-bold text-xl ${theme === 'dark' ? 'text-cream-100' : 'text-primary-800'}`}>BuildLocal</span>
         </div>
         <div className="flex items-center space-x-4">
           {navLinks.map(link => (

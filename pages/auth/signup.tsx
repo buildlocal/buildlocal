@@ -46,8 +46,8 @@ const SignUp: React.FC = () => {
   return (
     <>
       <Head>
-        <title>Sign Up | OpenTokyo</title>
-        <meta name="description" content="Create your OpenTokyo account" />
+        <title>Sign Up | BuildLocal</title>
+        <meta name="description" content="Create your BuildLocal account" />
       </Head>
       <main className="min-h-screen bg-cream-50 dark:bg-gray-900 flex items-center justify-center py-12 px-4">
         <div className="max-w-md w-full space-y-8">
@@ -55,10 +55,10 @@ const SignUp: React.FC = () => {
           <div className="text-center">
             <div className="flex justify-center mb-6">
               <div className="w-16 h-16 bg-primary-500 rounded-xl flex items-center justify-center">
-                <span className="text-white font-bold text-2xl">OT</span>
+                <span className="text-white font-bold text-2xl">BL</span>
               </div>
             </div>
-            <h2 className="text-3xl font-bold text-primary-800 dark:text-cream-100">Join OpenTokyo</h2>
+            <h2 className="text-3xl font-bold text-primary-800 dark:text-cream-100">Join BuildLocal</h2>
             <p className="mt-2 text-primary-600 dark:text-cream-200">Create your account to get started</p>
           </div>
 

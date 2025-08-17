@@ -5,8 +5,8 @@ const PrivacyPolicy: React.FC = () => {
   return (
     <>
       <Head>
-        <title>Privacy Policy | OpenTokyo</title>
-        <meta name="description" content="OpenTokyo Privacy Policy" />
+        <title>Privacy Policy | BuildLocal</title>
+        <meta name="description" content="BuildLocal Privacy Policy" />
       </Head>
       <main className="min-h-screen bg-cream-50 dark:bg-gray-900 py-12 px-4">
         <div className="max-w-4xl mx-auto">
@@ -47,7 +47,7 @@ const PrivacyPolicy: React.FC = () => {
 
               <section>
                 <h2 className="text-xl font-semibold text-primary-800 dark:text-cream-100 mb-3">Contact Us</h2>
-                <p>If you have any questions about this Privacy Policy, please contact us at privacy@opentokyo.org</p>
+                <p>If you have any questions about this Privacy Policy, please contact us at privacy@buildlocal.org</p>
               </section>
             </div>
 

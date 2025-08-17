@@ -84,8 +84,8 @@ const ResetPassword: React.FC = () => {
     return (
       <>
         <Head>
-          <title>Reset Password | OpenTokyo</title>
-          <meta name="description" content="Reset your OpenTokyo account password" />
+          <title>Reset Password | BuildLocal</title>
+          <meta name="description" content="Reset your BuildLocal account password" />
         </Head>
         <main className="min-h-screen bg-cream-50 dark:bg-gray-900 flex items-center justify-center py-12 px-4">
           <div className="max-w-md w-full space-y-8">
@@ -104,7 +104,7 @@ const ResetPassword: React.FC = () => {
     return (
       <>
         <Head>
-          <title>Invalid Reset Link | OpenTokyo</title>
+          <title>Invalid Reset Link | BuildLocal</title>
           <meta name="description" content="Invalid password reset link" />
         </Head>
         <main className="min-h-screen bg-cream-50 dark:bg-gray-900 flex items-center justify-center py-12 px-4">
@@ -143,7 +143,7 @@ const ResetPassword: React.FC = () => {
     return (
       <>
         <Head>
-          <title>Password Reset Successful | OpenTokyo</title>
+          <title>Password Reset Successful | BuildLocal</title>
           <meta name="description" content="Your password has been successfully reset" />
         </Head>
         <main className="min-h-screen bg-cream-50 dark:bg-gray-900 flex items-center justify-center py-12 px-4">
@@ -181,8 +181,8 @@ const ResetPassword: React.FC = () => {
   return (
     <>
       <Head>
-        <title>Reset Password | OpenTokyo</title>
-        <meta name="description" content="Reset your OpenTokyo account password" />
+        <title>Reset Password | BuildLocal</title>
+        <meta name="description" content="Reset your BuildLocal account password" />
       </Head>
       <main className="min-h-screen bg-cream-50 dark:bg-gray-900 flex items-center justify-center py-12 px-4">
         <div className="max-w-md w-full space-y-8">
@@ -190,7 +190,7 @@ const ResetPassword: React.FC = () => {
           <div className="text-center">
             <div className="flex justify-center mb-6">
               <div className="w-16 h-16 bg-primary-500 rounded-xl flex items-center justify-center">
-                <span className="text-white font-bold text-2xl">OT</span>
+                <span className="text-white font-bold text-2xl">BL</span>
               </div>
             </div>
             <h2 className="text-3xl font-bold text-primary-800 dark:text-cream-100">Reset your password</h2>

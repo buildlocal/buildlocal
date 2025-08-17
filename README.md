@@ -1,6 +1,6 @@
-# OpenTokyo 🚀
+# BuildLocal 🚀
 
-**A modern platform for technology news, community discussions, and events in Tokyo**
+**A modern platform for technology news, community discussions, and local events**
 
 [![Next.js](https://img.shields.io/badge/Next.js-14.2.3-black?logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)](https://reactjs.org/)
@@ -12,7 +12,7 @@
 
 - **📰 News Hub**: Stay updated with the latest technology and engineering news
 - **👥 Community**: Connect, share, and collaborate with fellow tech enthusiasts  
-- **📅 Events**: Discover and join upcoming tech events in Tokyo
+- **📅 Events**: Discover and join upcoming tech events in your local area
 - **🌙 Dark Mode**: Beautiful light/dark theme switching
 - **📱 Responsive**: Fully responsive design for all devices
 - **⚡ Fast**: Built with Next.js for optimal performance
@@ -29,8 +29,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/opentokyo.git
-   cd opentokyo
+   git clone https://github.com/yourusername/buildlocal.git
+   cd buildlocal
    ```
 
 2. **Install dependencies**
@@ -68,7 +68,7 @@ Our custom color scheme reflects Tokyo's tech culture:
 ## 📁 Project Structure
 
 ```
-opentokyo/
+buildlocal/
 ├── components/          # Reusable UI components
 │   ├── ui/             # shadcn/ui components
 │   ├── Navbar.tsx      # Navigation component
@@ -91,8 +91,8 @@ We welcome contributions from the community! Here's how you can help:
 
 ### Ways to Contribute
 
-- 🐛 **Bug Reports**: Found a bug? [Open an issue](https://github.com/yourusername/opentokyo/issues)
-- 💡 **Feature Requests**: Have an idea? [Start a discussion](https://github.com/yourusername/opentokyo/discussions)
+- 🐛 **Bug Reports**: Found a bug? [Open an issue](https://github.com/yourusername/buildlocal/issues)
+- 💡 **Feature Requests**: Have an idea? [Start a discussion](https://github.com/yourusername/buildlocal/discussions)
 - 🔧 **Code Contributions**: Submit pull requests
 - 📝 **Documentation**: Improve our docs
 - 🌐 **Translation**: Help translate the platform
@@ -123,9 +123,9 @@ npm run lint         # Run linting
 
 ## 🌟 Community
 
-- **GitHub Discussions**: [Join the conversation](https://github.com/yourusername/opentokyo/discussions)
-- **Issues**: [Report bugs or request features](https://github.com/yourusername/opentokyo/issues)
-- **Twitter**: [@opentokyo](https://twitter.com/opentokyo)
+- **GitHub Discussions**: [Join the conversation](https://github.com/yourusername/buildlocal/discussions)
+- **Issues**: [Report bugs or request features](https://github.com/yourusername/buildlocal/issues)
+- **Twitter**: [@buildlocal](https://twitter.com/buildlocal)
 
 ## 📄 License
 
@@ -143,4 +143,4 @@ For security concerns, please review our [Security Policy](SECURITY.md).
 
 ---
 
-**Made with ❤️ in Tokyo** | [Website](https://opentokyo.org) | [Community](https://github.com/yourusername/opentokyo/discussions)
+**Made with ❤️ globally** | [Website](https://buildlocal.org) | [Community](https://github.com/yourusername/buildlocal/discussions)

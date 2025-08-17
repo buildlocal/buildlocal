@@ -10,16 +10,16 @@ We release patches for security vulnerabilities. Which versions are eligible for
 
 ## Reporting a Vulnerability
 
-The OpenTokyo team takes security bugs seriously. We appreciate your efforts to responsibly disclose your findings, and will make every effort to acknowledge your contributions.
+The BuildLocal team takes security bugs seriously. We appreciate your efforts to responsibly disclose your findings, and will make every effort to acknowledge your contributions.
 
 ### Where to Report
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, please report them via email to: **security@opentokyo.org**
+Instead, please report them via email to: **security@buildlocal.org**
 
 If you don't receive a response within 48 hours, please follow up via:
-- GitHub Security Advisory: [Create a private vulnerability report](https://github.com/yourusername/opentokyo/security/advisories/new)
+- GitHub Security Advisory: [Create a private vulnerability report](https://github.com/yourusername/buildlocal/security/advisories/new)
 
 ### What to Include
 
@@ -65,8 +65,8 @@ The following are considered **in scope** for our security program:
 
 The following are considered **out of scope**:
 
-- **Social Engineering**: Phishing attacks against OpenTokyo employees or users
-- **Physical Security**: Physical attacks against OpenTokyo infrastructure
+- **Social Engineering**: Phishing attacks against BuildLocal employees or users
+- **Physical Security**: Physical attacks against BuildLocal infrastructure
 - **Denial of Service**: DoS/DDoS attacks
 - **Rate Limiting**: Issues related to rate limiting or resource exhaustion
 - **Information Disclosure**: Version disclosure, debug information (unless leading to further exploitation)
@@ -84,7 +84,7 @@ We follow these security practices:
 ### Contact
 
 For general security questions or concerns, please contact:
-- **Email**: security@opentokyo.org
+- **Email**: security@buildlocal.org
 - **PGP Key**: [Available on request]
 
 ### Legal
@@ -93,4 +93,4 @@ This security policy is subject to change without notice. By participating in ou
 
 ---
 
-**Thank you for helping keep OpenTokyo and our community safe!**
+**Thank you for helping keep BuildLocal and our community safe!**

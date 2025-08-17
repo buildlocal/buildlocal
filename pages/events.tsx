@@ -6,14 +6,14 @@ const Events: React.FC = () => {
   return (
     <>
       <Head>
-        <title>Events | OpenTokyo</title>
+        <title>Events | BuildLocal</title>
       </Head>
       <main className="container mx-auto py-10 bg-cream-50 dark:bg-gray-900 min-h-screen">
         <h1 className="text-4xl font-bold mb-6 flex items-center gap-3 text-primary-800 dark:text-cream-100">
           <Calendar className="w-10 h-10 text-accent-500" />
           Events
         </h1>
-        <p className="text-xl text-primary-700 dark:text-cream-200 mb-10">Discover and join upcoming technology and engineering events in the OpenTokyo community.</p>
+        <p className="text-xl text-primary-700 dark:text-cream-200 mb-10">Discover and join upcoming technology and engineering events in the BuildLocal community.</p>
         
         {/* Upcoming Events */}
         <div className="space-y-6">

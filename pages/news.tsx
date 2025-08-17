@@ -5,7 +5,7 @@ const News: React.FC = () => {
   return (
     <>
       <Head>
-        <title>News | OpenTokyo</title>
+        <title>News | BuildLocal</title>
       </Head>
       <main className="container mx-auto py-10 bg-cream-50 dark:bg-gray-900 min-h-screen">
         <h1 className="text-4xl font-bold mb-6 flex items-center gap-2 text-primary-800 dark:text-cream-100">

@@ -5,13 +5,13 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>OpenTokyo - Tech News, Community & Events</title>
-        <meta name="description" content="OpenTokyo: Platform for news, community, and events in technology and engineering." />
+        <title>BuildLocal - Tech News, Community & Events</title>
+        <meta name="description" content="BuildLocal: Platform for news, community, and local events in technology and engineering." />
       </Head>
       <main className="flex flex-col items-center justify-center min-h-screen bg-cream-50 dark:bg-gray-900">
         <div className="flex items-center space-x-3 mb-6">
           <LucideRocket className="w-10 h-10 text-primary-500" />
-          <h1 className="text-4xl font-bold text-primary-800 dark:text-cream-100">OpenTokyo</h1>
+          <h1 className="text-4xl font-bold text-primary-800 dark:text-cream-100">BuildLocal</h1>
         </div>
         <p className="text-lg text-primary-700 dark:text-cream-200 mb-4 text-center max-w-2xl">
           Platform for news, community, and events in technology and engineering.

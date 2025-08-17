@@ -23,7 +23,7 @@ const ForgotPassword: React.FC = () => {
     return (
       <>
         <Head>
-          <title>Check Your Email | OpenTokyo</title>
+          <title>Check Your Email | BuildLocal</title>
           <meta name="description" content="Password reset email sent" />
         </Head>
         <main className="min-h-screen bg-cream-50 dark:bg-gray-900 flex items-center justify-center py-12 px-4">
@@ -80,8 +80,8 @@ const ForgotPassword: React.FC = () => {
   return (
     <>
       <Head>
-        <title>Forgot Password | OpenTokyo</title>
-        <meta name="description" content="Reset your OpenTokyo account password" />
+        <title>Forgot Password | BuildLocal</title>
+        <meta name="description" content="Reset your BuildLocal account password" />
       </Head>
       <main className="min-h-screen bg-cream-50 dark:bg-gray-900 flex items-center justify-center py-12 px-4">
         <div className="max-w-md w-full space-y-8">
@@ -89,7 +89,7 @@ const ForgotPassword: React.FC = () => {
           <div className="text-center">
             <div className="flex justify-center mb-6">
               <div className="w-16 h-16 bg-primary-500 rounded-xl flex items-center justify-center">
-                <span className="text-white font-bold text-2xl">OT</span>
+                <span className="text-white font-bold text-2xl">BL</span>
               </div>
             </div>
             <h2 className="text-3xl font-bold text-primary-800 dark:text-cream-100">Forgot your password?</h2>

@@ -30,8 +30,8 @@ const Contact: React.FC = () => {
   return (
     <>
       <Head>
-        <title>Contact Us | OpenTokyo</title>
-        <meta name="description" content="Get in touch with the OpenTokyo team" />
+        <title>Contact Us | BuildLocal</title>
+        <meta name="description" content="Get in touch with the BuildLocal team" />
       </Head>
       <main className="min-h-screen bg-cream-50 dark:bg-gray-900 py-12 px-4">
         <div className="max-w-6xl mx-auto">
@@ -135,7 +135,7 @@ const Contact: React.FC = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold text-primary-800 dark:text-cream-100">Email</h3>
-                      <p className="text-primary-600 dark:text-cream-300">hello@opentokyo.org</p>
+                      <p className="text-primary-600 dark:text-cream-300">hello@buildlocal.org</p>
                       <p className="text-sm text-primary-500 dark:text-cream-400">We'll respond within 24 hours</p>
                     </div>
                   </div>
@@ -157,7 +157,7 @@ const Contact: React.FC = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold text-primary-800 dark:text-cream-100">Support</h3>
-                      <p className="text-primary-600 dark:text-cream-300">support@opentokyo.org</p>
+                      <p className="text-primary-600 dark:text-cream-300">support@buildlocal.org</p>
                       <p className="text-sm text-primary-500 dark:text-cream-400">For technical issues and bugs</p>
                     </div>
                   </div>
